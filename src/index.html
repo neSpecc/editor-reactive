@@ -1,0 +1,19 @@
+<style> body {background:#1f242b; color: rgb(218, 243, 255); font: 1em Menlo; padding: 100px;} </style>
+<link href="./style.css" rel="stylesheet"/>
+
+<div id=editor></div>
+
+<div class="demo">
+    <h4 >Chaging outside the plugin </h4>
+    name: <input type="text" oninput="change({name: this.value})"> <br>
+    family: <input type="text" oninput="change({family: this.value})"> <br>
+    caption: <input type="text" oninput="change({caption: this.value})">
+</div>
+
+<div class="output">
+    <h4>Editor output:</h4>
+
+    <pre></pre>
+</div>
+
+<script src="./index.js"></script>
