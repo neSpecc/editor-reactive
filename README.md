@@ -2,6 +2,8 @@
 
 Experiment 0.1
 
+[Open Demo](dist/index.html)
+
 ## Features
 
 - Parsing plugins template string
