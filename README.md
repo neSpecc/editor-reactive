@@ -10,3 +10,5 @@ Experiment 0.1
 - Reactive `{{ mustache }}` variables in templates
 - Reactive `<div bind="variable"></div>` in templates
 - Reactive `<div bind="variable" contenteditable></div>` in templates
+- Support both `contenteditable` and `input` bindings
+- Caret is not jumping when `contenteditable` is changing
