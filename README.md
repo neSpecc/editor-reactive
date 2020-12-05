@@ -2,7 +2,7 @@
 
 Experiment 0.1
 
-[Open Demo](dist/index.html)
+[Open Demo](https://nespecc.github.io/editor-reactive/dist/index.html)
 
 ## Features
 
