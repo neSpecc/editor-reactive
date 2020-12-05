@@ -19,4 +19,4 @@ var r=require("./domparser"),e=require("./utilities"),t=e.formatDOM,i=e.isIE(9),
 },{}],"Focm":[function(require,module,exports) {
 "use strict";var e=r(require("./editor")),t=r(require("./plugin"));function r(e){return e&&e.__esModule?e:{default:e}}var u=new e.default({holder:document.getElementById("editor"),tools:{myTool:t.default}});
 },{"./editor":"fqJo","./plugin":"GOVZ"}]},{},["Focm"], null)
-//# sourceMappingURL=src.cc1db2d3.js.map
+//# sourceMappingURL=src.ca01df12.js.map

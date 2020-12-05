@@ -1,10 +1,13 @@
-
+/**
+ * Example of tool
+ * - has the `template` instead of `render()`
+ * - provide data structure via `get data()`
+ * - all bindings from data to template on the editor side
+ */
 export default class Plugin { 
     constructor(){
-
-
     }
-    
+
     get template(){
         return `
             <div>
